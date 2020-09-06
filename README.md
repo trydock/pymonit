@@ -1,0 +1,13 @@
+# PyMonit
+
+A simple python monitoring tool.
+
+## ToDo
+
+- Blueprint [DONE]
+- ADD-SERVERS [TODO]
+- EDIT-SERVERS [TODO]
+- SSH-PYTHON [TODO]
+- CONNECT SERVERS [TODO]
+- MONITOR SERVER [TODO]
+- MONITOR DASHBOARD [TODO]
